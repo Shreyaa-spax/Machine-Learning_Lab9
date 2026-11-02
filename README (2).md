@@ -99,6 +99,7 @@ The notebook generates:
 - Cluster labels are identifiers, not customer types in a predefined order.
 
 ## Author
-**Name:** Riya Waghmare  
-**Roll No.:** 35  
-**Class:** B-B3
+**Name:** Shreya SHarma
+**Roll No.:** 14
+**Class:** B-B1
+
